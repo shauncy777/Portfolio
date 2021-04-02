@@ -88,12 +88,15 @@ section {
   /* The image used */
   background-image: url("circuit_ board_ background.jpeg");
   /* Full height */
-  height: 100%; 
-
+  height: 100%;
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+
+ 
+  
+  
 }
 
 .bg::before {    
@@ -159,11 +162,7 @@ html, body {
     margin-bottom: 50px;
   }
 
-  /*body {
-    margin: 0;
-    padding: 0;
-    background: #ccc;
-  }*/
+  
    
   .nav ul {
     display: inline-flex;
@@ -202,42 +201,20 @@ html, body {
     cursor: default;
   }
   
-   
-  @media screen and (min-width: 600px) {
-    .nav li {
-      display: inline-grid;
+  .nav li {
+      display: block;
       padding: 60px;
       text-align: center;
       border-bottom: none;
       height: 20px;
       line-height: 40px;
       font-size: 15px;
-      width:auto;
+      width: auto;
     }
  
   
   
-    /* Option 1 - Display Inline */
-  /* .nav li {
-      display: inline-block;
-      margin-right: -40px;
-      
-    }
-   
-    /*Options 2 - Float*/
-    /*.nav li {
-      float: left;
-    }
-    .nav ul {
-      overflow: auto;
-      width: 600px;
-      margin: 0 auto;
-    }
-    .nav {
-      background-color: #444;
-    }
-   */
-}
+
 
 
 footer{
@@ -273,4 +250,58 @@ a {
   padding: 3px;
   margin-top: 6px;
   margin-left: 2px;
+}
+
+@media screen and (max-width: 960px){
+ 
+  .container h1{
+    font-size: 20px;
+    letter-spacing: 2px;
+    display: block;
+    justify-content: center;
+  }
+  body {
+    font-size: 10px;
+    letter-spacing: 2px;
+
+  }
+  .nav li {
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    margin: 30px;
+    padding: 0px;
+  
+  }
+
+  
+}
+@media screen and (max-width:670px){
+
+ .container  {
+    font-size: 15px;
+    letter-spacing: 1px;
+    display: block;
+    justify-content: center;
+    margin-left: 50px;
+  }
+  body {
+    font-size: 7px;
+    letter-spacing: 1px;
+
+  }
+  .nav li {
+    font-size: 10px;
+    letter-spacing: 1px;
+    line-height: 10px;
+    margin: 30px;
+    padding: 0px;
+  
+  }
+
+
+
+
+
+
 }
