@@ -203,7 +203,7 @@ html, body {
   }
   
    
-  @media screen and (min-width: 600px) {
+  @media screen and (min-width: 321px) {
     .nav li {
       display: inline-grid;
       padding: 60px;
@@ -214,9 +214,7 @@ html, body {
       font-size: 15px;
       width:auto;
     }
- .container {
-   width: auto;
- }
+ 
 
   
     /* Option 1 - Display Inline */
