@@ -245,7 +245,7 @@ html, body {
 footer{
 
   margin-bottom: 200px;
-width: auto;
+width: 100%;
 }
 
 button {
@@ -266,7 +266,7 @@ h4 {
   color: white;
   margin-top: 5px;
   margin-bottom: -15px;
-  width: auto;
+  width: 100%;
 }
 
 button :hover {
@@ -278,5 +278,5 @@ a {
   padding: 3px;
   margin-top: 6px;
   margin-left: 2px;
-  width: auto;
+  width: 100%;
 }
