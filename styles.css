@@ -286,12 +286,12 @@ a {
     margin-left: 50px;
   }
   body {
-    font-size: 7px;
+    font-size: 10px;
     letter-spacing: 1px;
 
   }
   .nav li {
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 1px;
     line-height: 10px;
     margin: 30px;
