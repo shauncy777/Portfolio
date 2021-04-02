@@ -311,6 +311,7 @@ a {
      body {
        font-size: 5px;
        letter-spacing: 0px;
+       display: block;
    
      }
      .nav li {
