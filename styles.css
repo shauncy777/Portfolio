@@ -268,7 +268,7 @@ a {
   .nav li {
     font-size: 15px;
     letter-spacing: 2px;
-    line-height: 20px;
+    line-height: 25px;
     margin: 30px;
     padding: 0px;
   
@@ -293,8 +293,8 @@ a {
   .nav li {
     font-size: 12px;
     letter-spacing: 1px;
-    line-height: 10px;
-    margin: 30px;
+    line-height: 20px;
+    margin: 20px;
     padding: 0px;
   
   }
@@ -317,8 +317,8 @@ a {
      .nav li {
        font-size: 15px;
        letter-spacing: 0px;
-       line-height: 0px;
-       margin: 25px;
+       line-height: 30px;
+       margin: 15px;
        padding: 0px;
      
      }
