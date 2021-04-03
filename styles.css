@@ -278,20 +278,17 @@ a {
 }
 @media screen and (max-width:670px){
 
-  .container {
-    margin-top: -25px;
-
- }
+  
  
   .container h1  {
-    font-size: 20px;
+    font-size: 25px;
     letter-spacing: 1px;
     display: block;
     justify-content: center;
     margin-left: 50px;
   }
   .line-1 anim-typewriter{
-    font-size: 8px;
+    font-size: 6px;
   }
   
   body {
@@ -315,14 +312,14 @@ a {
   @media screen and (max-width:420px){
 
     .container h1 {
-       font-size: 15px;
+       font-size: 20px;
        letter-spacing: 0px;
        display: block;
        justify-content: center;
        margin-left: 80px;
      }
      .line-1 anim-typewriter {
-      font-size: 10px;
+      font-size: 6px;
     }
      body {
        font-size: 10px;
