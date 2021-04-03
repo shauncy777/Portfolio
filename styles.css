@@ -286,7 +286,7 @@ a {
     margin-left: 50px;
   }
   .line-1 anim-typewriter{
-    font-size: 12px;
+    font-size: 10px;
   }
   
   body {
@@ -294,11 +294,14 @@ a {
     letter-spacing: 1px;
 
   }
+  header{
+    margin-top: 20px;
+  }
   .nav li {
     font-size: 10px;
     letter-spacing: 1px;
     line-height: 20px;
-    margin-top: 100px;
+    margin-top: 10px;
     padding: 0px;
   
   }
