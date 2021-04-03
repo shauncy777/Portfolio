@@ -286,7 +286,8 @@ a {
     margin-left: 50px;
   }
   .line-1 anim-typewriter{
-    font-size: 10px;
+    font-size: 8px;
+  }
   
   body {
     font-size: 15px;
@@ -297,7 +298,7 @@ a {
     font-size: 10px;
     letter-spacing: 1px;
     line-height: 20px;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 0px;
   
   }
@@ -312,7 +313,7 @@ a {
        margin-left: 80px;
      }
      .line-1 anim-typewriter{
-      font-size: 10px;
+      font-size: 7px;
     }
      body {
        font-size: 10px;
@@ -321,10 +322,10 @@ a {
    
      }
      .nav li {
-       font-size: 15px;
+       font-size: 10px;
        letter-spacing: 0px;
-       line-height: 30px;
-       margin-top: 25px;
+       line-height: 20px;
+       margin-top: 5px;
        padding: 0px;
      
      }
