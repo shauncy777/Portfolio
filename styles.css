@@ -297,8 +297,8 @@ a {
 
   }
   header{
-    margin-bottom: 20px;
     margin-top: 20px;
+    margin-bottom: -20px;
   }
   .nav li {
     font-size: 10px;
@@ -320,6 +320,10 @@ a {
      }
      .line-1 anim-typewriter {
       font-size: 6px;
+    }
+    header{
+      margin-top: 20px;
+      margin-bottom: -20px;
     }
      body {
        font-size: 10px;
