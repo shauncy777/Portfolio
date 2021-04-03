@@ -285,6 +285,8 @@ a {
     justify-content: center;
     margin-left: 50px;
   }
+  .line-1 anim-typewriter{
+    font-size: 10px;
   
   body {
     font-size: 15px;
@@ -292,7 +294,7 @@ a {
 
   }
   .nav li {
-    font-size: 12px;
+    font-size: 10px;
     letter-spacing: 1px;
     line-height: 20px;
     margin-top: 20px;
