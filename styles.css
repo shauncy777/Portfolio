@@ -278,15 +278,20 @@ a {
 }
 @media screen and (max-width:670px){
 
- .container h1  {
-    font-size: 15px;
+  .container {
+    margin-top: -25px;
+
+ }
+ 
+  .container h1  {
+    font-size: 20px;
     letter-spacing: 1px;
     display: block;
     justify-content: center;
     margin-left: 50px;
   }
   .line-1 anim-typewriter{
-    font-size: 10px;
+    font-size: 8px;
   }
   
   body {
@@ -295,6 +300,7 @@ a {
 
   }
   header{
+    margin-bottom: 20px;
     margin-top: 20px;
   }
   .nav li {
