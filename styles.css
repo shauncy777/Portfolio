@@ -18,6 +18,9 @@ section {
   background-color: #09111b;
 }
 
+.container {
+    margin-top: -175px;
+}
 
 .container h1 {
   font-size: 40px;
@@ -172,6 +175,7 @@ html, body {
     background-color: rgb(10, 10, 10);
     text-align: center;
     padding-top: 100px;
+    padding-bottom: 50px;
     margin-top: -150px;
   }
   .nav li {
